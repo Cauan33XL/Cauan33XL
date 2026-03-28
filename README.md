@@ -46,7 +46,7 @@ Desenvolvedor em formação apaixonado por **projetos práticos** que exploram *
 
 ### 🎮 **Projetos Websites e Games Canvas (HTML5 + CSS + JS)**
 
-[![HTML5 Game Experiments](https://github-readme-stats.vercel.app/api/pin/?username=Cauan33XL&repo=TRYMON-GAME-ENGINE&theme=radical&hide_border=true)](https://github.com/Cauan33XL/TRYMON-GAME-ENGINE)
+[![Trymon Game Engine](https://github-readme-stats.vercel.app/api/pin/?username=Cauan33XL&repo=TRYMON-GAME-ENGINE&theme=radical&hide_border=true)](https://github.com/Cauan33XL/TRYMON-GAME-ENGINE)
 [![Rei das Mordidas](https://github-readme-stats.vercel.app/api/pin/?username=Cauan33XL&repo=Rei-Das-Mordidas&theme=radical&hide_border=true)](https://github.com/Cauan33XL/Rei-Das-Mordidas)
 
 **🕹️ TRYMON-GAME-ENGINE** - Hub central para experimentos com Canvas e desenvolvimento de jogos web interativos.

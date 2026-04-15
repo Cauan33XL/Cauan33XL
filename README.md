@@ -39,7 +39,6 @@ Desenvolvedor em formação com foco em **projetos práticos** que conectam **ci
   
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cauan33XL&bg_color=0D1117&color=ffffff&line=DD2727&point=ffffff&area=true&hide_border=true)
 
-![Isometric Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cauan33XL&theme=dracula)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Cauan33XL.Cauan33XL&left_color=0D1117&right_color=DD2727&left_text=Visitantes)
 
@@ -51,7 +50,7 @@ Desenvolvedor em formação com foco em **projetos práticos** que conectam **ci
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Cauan33XL&theme=radical&no-frame=true&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+![Isometric Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cauan33XL&theme=dracula)
 
 </div>
 
@@ -87,7 +86,14 @@ Desenvolvedor em formação com foco em **projetos práticos** que conectam **ci
 
 ### ⚙️ Integração C + Multimídia
 
-[![Projeto Sic Mundus](https://github-readme-stats.vercel.app/api/pin/?username=Cauan33XL&repo=Projeto-Sic-Mundus&theme=radical&hide_border=true)](https://github.com/Cauan33XL/Projeto-Sic-Mundus)
+
+<div align="center">
+
+| Projeto Banco Sic Mundus |
+|--------------------------------------------|
+| [![Projeto Sic Mundus](https://github-readme-stats.vercel.app/api/pin/?username=Cauan33XL&repo=Projeto-Sic-Mundus&theme=radical&hide_border=true)](https://github.com/Cauan33XL/Projeto-Sic-Mundus) |
+
+</div>
 
 > **SIC MUNDUS** une programação em C com animações em After Effects. Um experimento de narrativa digital que resultou em [animação no YouTube](https://youtu.be/Ho4VTvK4V3Q), [código executável online](https://www.onlinegdb.com/t1lQ04s40) e [documentação completa](https://drive.google.com/file/d/17H4VnktBB3eaQ5giRp3veBbYfSIhjRpE/view).
 

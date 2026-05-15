@@ -1,151 +1,142 @@
-# 👾 Olá, eu sou Cauan Gabriel Matos Silva!
+# 👾 Cauan33XL OS | Version 2.0.26
 
 <div align="center">
-  
-![Retro Developer Coding](Assets/computador.gif)
 
-</div>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=DD2727&height=200&section=header&text=TRYMON-OS%20v2.0&fontSize=70&animation=fadeIn&fontAlignY=35)
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DD2727&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+formação;Apaixonado+por+Segurança+e+IA;Explorando+Jogos+Web+e+Backend;Construindo+soluções+práticas+e+criativas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=DD2727&center=true&vCenter=true&width=600&lines=%3E+Initialing+boot+sequence...;%3E+Loading+kernel+modules...;%3E+Establishing+SecureFlag+connection...;%3E+TRYMON-OS+Online+v2.0.26;%3E+Welcome%2C+Cauan+Gabriel.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre Mim
+## 🖥️ System Dashboard
 
-Desenvolvedor em formação com foco em **projetos práticos** que conectam **cibersegurança**, **desenvolvimento web**, **game development** e **inteligência artificial**. Minha jornada na TI é movida por desafios reais — de capturar flags em CTFs a construir engines de jogos com Canvas. Gosto de aprender na prática, colaborar em equipe e transformar ideias em código funcional e criativo.
-
-- 🔭 Atualmente explorando **eliciação em cibersegurança** e **perícia computacional**
-- 🌱 Aprofundando em **React, Node.js** e **arquitetura de jogos com Canvas**
-- 🤝 Aberto a parcerias em **projetos open-source** e **CTFs**
-- ⚡ Curiosidade: já desenvolvi uma animação integrando C e After Effects — sim, é possível unir lógica e arte!
-
----
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  
-| 🚀 Atividade Geral | 🔥 Contribuições Recentes |
-|:------------------:|:--------------------------:|
-| ![Cauan33XL's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cauan33XL&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cauan33XL&theme=radical&hide_border=true&stroke=ffffff&background=0D1117&ring=DD2727&fire=DD2727&currStreakLabel=ffffff) |
-
-</div>
+```text
+       .---.           USER: Cauan Gabriel Matos Silva
+      /     \          OS: TRYMON-OS v2.0.26 (WASM-based)
+      | (O) |          HOST: GitHub/Cauan33XL
+      \     /          KERNEL: Rust-Microkernel-x86_64
+       '---'           UPTIME: 20 years, 5 months
+      /|   |\          SHELL: zsh (Powerlevel10k)
+     / |   | \         FOCUSED: Cybersecurity & OS Dev
+    /  |   |  \        STATUS: [ RUNNING ]
+```
 
 <div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cauan33XL&bg_color=0D1117&color=ffffff&line=DD2727&point=ffffff&area=true&hide_border=true)
 
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Cauan33XL.Cauan33XL&left_color=0D1117&right_color=DD2727&left_text=Visitantes)
+| [🚀 PROJETOS](#-projetos-exec) | [🛠️ STACK](#-tech_stacklog) | [📊 STATS](#-system-monitoring) | [🌐 LINKS](#-conecte-se-comigo) |
+|:---:|:---:|:---:|:---:|
 
 </div>
 
 ---
 
-## 🏆 Troféus e Conquistas
+## 🧑‍💻 [ SYSTEM INFO ]
 
-<div align="center">
-  
-![Isometric Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cauan33XL&theme=dracula)
+<details open>
+<summary><b>Click to expand/collapse user_bio.txt</b></summary>
 
-</div>
+> Desenvolvedor apaixonado por **sistemas de baixo nível**, **cibersegurança** e **experiências web de alta performance**. Atualmente, meu foco principal é a convergência entre **Rust, WebAssembly e Virtualização**, criando pontas entre o software nativo e o navegador. Minha jornada é guiada pela curiosidade técnica — de desmontar malwares em CTFs a construir kernels experimentais para a web.
 
----
-
-## 🚀 Projetos em Destaque
-
-### 🔐 SecureFlag CTF – Yaldabaoth
-
-<div align="center">
-
-| Repositório | Demo |
-|-------------|------|
-| [![CTF Home Bank](https://github-readme-stats.vercel.app/api/pin/?username=Cauan33XL&repo=CTF-Yaldabaoth-Home-Bank&theme=radical&hide_border=true)](https://github.com/Cauan33XL/CTF-Yaldabaoth-Home-Bank) | [🔗 Visitar](https://yaldabaoth-bank-home-ctf.vercel.app/) |
-| [![CTF Corporate Email](https://github-readme-stats.vercel.app/api/pin/?username=Cauan33XL&repo=CTF-Yaldabaoth-Corporate-Email&theme=radical&hide_border=true)](https://github.com/Cauan33XL/CTF-Yaldabaoth-Corporate-Email) | [🔗 Visitar](https://yaldabaoth-bank-email-ctf.vercel.app/) |
-
-</div>
-
-> **Simulação forense de ataque a um banco fictício** – projeto acadêmico em equipe para a UNICEPLAC. Utiliza React, Docker e CTFd para criar um ambiente realista de coleta de evidências digitais.
-
-### 🎮 Game Dev & Web Interativo
-
-<div align="center">
-
-| Trymon Game Engine | Rei das Mordidas |
-|--------------------|------------------|
-| [![Trymon Game Engine](https://github-readme-stats.vercel.app/api/pin/?username=Cauan33XL&repo=TRYMON-GAME-ENGINE&theme=radical&hide_border=true)](https://github.com/Cauan33XL/TRYMON-GAME-ENGINE) | [![Rei das Mordidas](https://github-readme-stats.vercel.app/api/pin/?username=Cauan33XL&repo=Rei-Das-Mordidas&theme=radical&hide_border=true)](https://github.com/Cauan33XL/Rei-Das-Mordidas) |
-
-</div>
-
-- **Trymon Game Engine**: Hub experimental para jogos com Canvas HTML5. Foco em mecânicas 2D e performance.
-- **Rei das Mordidas**: Catálogo interativo de hambúrgueres com design responsivo e hospedagem profissional — ideal para estudos de front-end e UX.
-
-### ⚙️ Integração C + Multimídia
-
-
-<div align="center">
-
-| Projeto Banco Sic Mundus |
-|--------------------------------------------|
-| [![Projeto Sic Mundus](https://github-readme-stats.vercel.app/api/pin/?username=Cauan33XL&repo=Projeto-Sic-Mundus&theme=radical&hide_border=true)](https://github.com/Cauan33XL/Projeto-Sic-Mundus) |
-
-</div>
-
-> **SIC MUNDUS** une programação em C com animações em After Effects. Um experimento de narrativa digital que resultou em [animação no YouTube](https://youtu.be/Ho4VTvK4V3Q), [código executável online](https://www.onlinegdb.com/t1lQ04s40) e [documentação completa](https://drive.google.com/file/d/17H4VnktBB3eaQ5giRp3veBbYfSIhjRpE/view).
+- 🚀 **Liderando**: Desenvolvimento do **TRYMON-OS** (Binary-as-a-Service)
+- 🛡️ **Especialidade**: Eliciação e Perícia Computacional aplicada a CTFs
+- ⚙️ **Pesquisa**: Rust, WebAssembly (WASM) e Arquitetura de Microkernels
+</details>
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 📂 [ PROJECTS.EXE ]
+
+### 💻 **TRYMON-OS** `[ FLAGSHIP ]`
+<details>
+<summary><b>▶️ Open Terminal Interface</b></summary>
+
+> **O futuro da computação no navegador.** Uma plataforma de alto desempenho que simula um ambiente de sistema operacional completo, permitindo rodar binários Linux nativos (`.AppImage`, `.deb`) via WebAssembly e virtualização x86.
+
+| Status | Tech Stack | Repository |
+|:---:|:---:|:---:|
+| `Alpha` | **Rust + WASM + React** | [🔗 Access Source](https://github.com/Cauan33XL/TRYMON-OS) |
+
+```bash
+$ trymon-os --run-binary example.AppImage
+[INFO] Initializing x86 virtualization...
+[INFO] WASM Module Loaded. Booting...
+```
+</details>
+
+### 🛡️ **SecureFlag CTF** `[ SECURITY ]`
+<details>
+<summary><b>▶️ Open Forensic Lab</b></summary>
+
+> **Ambiente acadêmico de treinamento forense.** Plataforma unificada de Capture The Flag focada em perícia digital e análise de evidências. Utilizada para simular cenários reais de invasão e coleta de dados em sistemas bancários e corporativos.
+
+| Modules | Demo | Repository |
+|:---:|:---:|:---:|
+| `Yaldabaoth Home / Bank` | [🔗 Live Lab](https://yaldabaoth-bank-home-ctf.vercel.app/) | [🔗 Access Source](https://github.com/Cauan33XL/SECURE-FLAG-PROJETO-CTF) |
+
+```bash
+$ secureflag --analyze-dump evidence_001.raw
+[SCAN] 100% - Multiple flags detected in memory.
+```
+</details>
+
+### 💧 **HydroPush App** `[ MOBILE ]`
+<details>
+<summary><b>▶️ Open Mobile Preview</b></summary>
+
+> **Hidratação inteligente e privada.** Um aplicativo monorepo focado em privacidade e funcionamento 100% offline. Desenvolvido para ser leve e multiplataforma (Web & Mobile).
+
+| Platforms | Tech Stack | Repository |
+|:---:|:---:|:---:|
+| `Web / Android / iOS` | **React + Capacitor + Firebase** | [🔗 Access Source](https://github.com/Cauan33XL/HYDROPUSH-APP) |
+</details>
+
+---
+
+## 🛠️ [ TECH_STACK.LOG ]
+
+```typescript
+/** 
+ * Current Development Environment 
+ */
+const cauanStack = {
+  systems: ["Rust", "WASM", "C", "Docker"],
+  webMobile: ["React", "TypeScript", "Capacitor", "Vite"],
+  tools: ["Figma", "VS Code", "Git", "Postman"],
+  learning2026: ["WebGPU", "Smart Contract Security"]
+};
+
+// Running build...
+console.log("Environment ready. Happy coding!");
+```
 
 <div align="center">
-  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![WASM](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
-### 🧰 Ferramentas do Dia a Dia
+---
+
+## 📊 [ SYSTEM MONITORING ]
 
 <div align="center">
-  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
+| 🚀 Global Activity | 🔥 User Streak |
+|:------------------:|:------------------:|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Cauan33XL&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cauan33XL&theme=radical&hide_border=true&stroke=ffffff&background=0D1117&ring=DD2727&fire=DD2727&currStreakLabel=ffffff) |
 
-### 📊 Linguagens mais utilizadas
-
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cauan33XL&theme=radical&hide_border=true&layout=compact&langs_count=8)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cauan33XL&bg_color=0D1117&color=ffffff&line=DD2727&point=ffffff&area=true&hide_border=true)
 
 </div>
 
 ---
 
-## 📅 Roadmap Pessoal (2025)
-
-- [ ] Concluir a integração completa das páginas Yaldabaoth com o CTFd do SecureFlag
-- [ ] Lançar versão funcional de pelo menos **2 jogos completos** no hub Trymon Game Engine
-- [ ] Participar de **3 competições de CTF** (SecureFlag, HackTheBox, etc.)
-- [ ] Contribuir com **pull requests** em projetos open-source de cibersegurança ou jogos web
-- [ ] Iniciar estudos formais em **Inteligência Artificial aplicada a detecção de ameaças**
-
----
-
-## 🌐 Onde me encontrar
+## 🌐 [ CONNECT.SH ]
 
 <div align="center">
 
@@ -158,14 +149,11 @@ Desenvolvedor em formação com foco em **projetos práticos** que conectam **ci
 
 ---
 
-## 💬 Vamos criar algo incrível?
-
-> "Código é a ponte entre a lógica fria e a criatividade humana — e cada projeto é um novo mundo que construímos."
-
-Estou aberto para **colaborações**, **mentorias** e **desafios técnicos**. Se você curte segurança, jogos, IA ou simplesmente quer trocar ideias sobre tecnologia, me chama!
-
 <div align="center">
-  
+
+> "O código é a única verdade, mas a criatividade é o que o torna realidade."
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=DD2727&height=120&section=footer)
 
 </div>
+

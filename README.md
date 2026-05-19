@@ -107,7 +107,7 @@ Desenvolvedor apaixonado por **sistemas de baixo nível**, **cibersegurança** e
 
 <div align="center">
   
-> "O código dá forma à lógica, mas é a criatividade que o transforma em realidade."
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1800&color=DD2727&center=true&vCenter=true&width=700&lines=O+c%C3%B3digo+d%C3%A1+forma+%C3%A0+l%C3%B3gica%2C;mas+%C3%A9+a+criatividade+que+o+transforma+em+realidade.)](https://git.io/typing-svg)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=DD2727&height=120&section=footer)
 

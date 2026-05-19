@@ -66,28 +66,6 @@ Desenvolvedor apaixonado por **sistemas de baixo nível**, **cibersegurança** e
 
 ---
 
-## 📈 Estatísticas & Atividade
-
-<div align="center">
-  
-| 🚀 Atividade Geral | 🔥 Streak |
-|:------------------:|:--------------------------:|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Cauan33XL&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cauan33XL&theme=radical&hide_border=true&stroke=ffffff&background=0D1117&ring=DD2727&fire=DD2727&currStreakLabel=ffffff) |
-
-</div>
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cauan33XL&bg_color=0D1117&color=ffffff&line=DD2727&point=ffffff&area=true&hide_border=true)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cauan33XL&theme=radical&hide_border=true&layout=compact&langs_count=8)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Cauan33XL.Cauan33XL&left_color=0D1117&right_color=DD2727&left_text=Exploradores)
-
-</div>
-
----
-
 ## 🛠️ Stack Tecnológica
 
 <div align="center">
@@ -114,16 +92,6 @@ Desenvolvedor apaixonado por **sistemas de baixo nível**, **cibersegurança** e
 
 ---
 
-## 📅 Roadmap Pessoal (2026)
-
-- [ ] **TRYMON-OS**: Implementar suporte a aceleração de hardware via WebGPU.
-- [ ] **SecureFlag**: Adicionar módulos de exploração de vulnerabilidades em Smart Contracts.
-- [ ] **HydroPush**: Lançar versão 1.0 estável na Google Play Store.
-- [ ] **Comunidade**: Contribuir com 5 grandes PRs para projetos Rust ou WASM.
-- [ ] **Educação**: Iniciar certificação avançada em Forense Computacional.
-
----
-
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
@@ -139,7 +107,7 @@ Desenvolvedor apaixonado por **sistemas de baixo nível**, **cibersegurança** e
 
 <div align="center">
   
-> "O código é a única verdade, mas a criatividade é o que o torna realidade."
+> "O código dá forma à lógica, mas é a criatividade que o transforma em realidade."
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=DD2727&height=120&section=footer)
 

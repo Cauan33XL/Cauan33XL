@@ -49,39 +49,27 @@ Meus projetos estão organizados sob a marca **33XL SYSTEMS**, meu ecossistema p
 #### 🎮 [33XL Games System Hub](https://github.com/33XL-GAMES-SYSTEM/33XL-GAMES-SYSTEM)
 **Ecossistema front-end minimalista.** Distribuidora central que abriga os games autorais e metafísicos do universo 33XL. Plataforma de distribuição criativa.
 
-<div align="center">
-
 | Função | Tech | Organização | Repo |
 |:---:|:---|:---:|:---:|
 | Distribuidora de games, hub central | `TypeScript` • `React` • `CSS` • `JavaScript` | 🎮 33XL Games System | [🔗 Ver](https://github.com/33XL-GAMES-SYSTEM/33XL-GAMES-SYSTEM) |
-
-</div>
 
 ---
 
 #### 🔗 [Repo Access Manager (R.A.M)](https://github.com/33XL-SYSTEM/REPO-ACCESS-MANAGER)
 **Núcleo central de acesso e indexação.** Hub de portfólio com estética retro-punk que centraliza todos os repositórios e websites. Desenvolvido para uma mente distribuída.
 
-<div align="center">
-
 | Função | Tech | Estética | Repo |
 |:---:|:---|:---:|:---:|
 | Indexação, portfólio central, acesso unificado | `TypeScript` • `React` • `CSS` | Retro-Punk, Dark Mode | [🔗 Ver](https://github.com/33XL-SYSTEM/REPO-ACCESS-MANAGER) |
-
-</div>
 
 ---
 
 #### 🌐 [R.A.M 3D Mode](https://github.com/33XL-SYSTEM/RAM-3D-MODE)
 **Hub interativo e imersivo em 3D.** Experiência espacial gamificada que transforma o portfólio tradicional em um ambiente 3D imersivo. Centraliza projetos e repositórios.
 
-<div align="center">
-
 | Tipo | Tech | Experiência | Repo |
 |:---:|:---|:---:|:---:|
 | 3D Immersive Portfolio | `TypeScript` • `React` • `Three.js` | Gamificada, exploratória, imersiva | [🔗 Ver](https://github.com/33XL-SYSTEM/RAM-3D-MODE) |
-
-</div>
 
 ---
 
@@ -90,26 +78,18 @@ Meus projetos estão organizados sob a marca **33XL SYSTEMS**, meu ecossistema p
 #### 💻 [TRYMON-OS](https://github.com/Cauan33XL/TRYMON-OS)
 **O futuro da computação no navegador.** Plataforma experimental de alto desempenho que simula um ambiente de SO completo, permitindo rodar binários Linux nativos via WebAssembly.
 
-<div align="center">
-
 | Status | Tech | Foco | Repo |
 |:---:|:---|:---|:---:|
 | 🔄 Alpha / Em Desenvolvimento | `Rust` • `WASM` • `React` • `TypeScript` | Sistema operacional no browser, executável remoto seguro | [🔗 Ver](https://github.com/Cauan33XL/TRYMON-OS) |
-
-</div>
 
 ---
 
 #### 💾 [Banco SIC MUNDUS](https://github.com/Cauan33XL/BANCO-SIC-MUNDUS)
 **Terminal contábil retrô e misterioso.** Lógica de transações em C roda no navegador via WebAssembly com ultra-velocidade, integrada a interface hacker clássica CRT.
 
-<div align="center">
-
 | Temática | Tech | Foco | Organização | Repo |
 |:---:|:---|:---|:---:|:---:|
 | ∴ Sic Mundus Creatus Est ∴ | `TypeScript` • `C` • `WASM` • `React 19` | Terminal financeiro WASM, interface retro-punk | 33XL SYSTEMS | [🔗 Ver](https://github.com/Cauan33XL/BANCO-SIC-MUNDUS) |
-
-</div>
 
 ---
 
@@ -118,13 +98,9 @@ Meus projetos estão organizados sob a marca **33XL SYSTEMS**, meu ecossistema p
 #### 📸 [Photo Test Engine](https://github.com/Cauan33XL/PHOTO-TEST-ENGINE-PUBLIC)
 **IDE ultrarrápida para componentes React.** Ambiente de desenvolvimento que roda direto no navegador. Teste, visualize e desenvolva componentes TSX/JSX instantaneamente com isolamento total.
 
-<div align="center">
-
 | Função | Tech | Inspiração | Foco | Repo |
 |:---:|:---|:---:|:---|:---:|
 | IDE para React, componentes instantâneos | `TypeScript` • `React` • `TSX/JSX` | Gemini Canvas | Desenvolvimento rápido, feedback imediato | [🔗 Ver](https://github.com/Cauan33XL/PHOTO-TEST-ENGINE-PUBLIC) |
-
-</div>
 
 ---
 
@@ -133,26 +109,18 @@ Meus projetos estão organizados sob a marca **33XL SYSTEMS**, meu ecossistema p
 #### 🎯 [SecureFlag CTF](https://github.com/Cauan33XL/SECURE-FLAG-PROJETO-CTF)
 **Ambiente acadêmico de treinamento forense.** Plataforma unificada de CTF focada em perícia digital, análise de evidências e simulação de cenários de invasão reais. Projeto UNICEPLAC.
 
-<div align="center">
-
 | Módulos | Tech | Demo | Foco | Repo |
 |:---:|:---|:---:|:---|:---:|
 | Yaldabaoth Home • Yaldabaoth Bank Corporate | `TypeScript` • `React` • `CSS` | [🔗 Live](https://yaldabaoth-bank-home-ctf.vercel.app/) | CTF forense, educação em segurança | [🔗 Ver](https://github.com/Cauan33XL/SECURE-FLAG-PROJETO-CTF) |
-
-</div>
 
 ---
 
 #### 💧 [HydroPush App](https://github.com/Cauan33XL/HYDROPUSH-APP)
 **Hidratação inteligente e privada.** Monorepo GPL3 100% offline com suporte multiplataforma (Web, Android, iOS). Lembretes personalizados, temas claro/escuro, persistência local completa.
 
-<div align="center">
-
 | Plataformas | Tech | Licença | Foco | Repo |
 |:---:|:---|:---:|:---|:---:|
 | 🌐 Web • 📱 Android • 🍎 iOS | `TypeScript` • `React` • `Capacitor` • `Firebase` | GPL3 | App offline-first, saúde, privacidade | [🔗 Ver](https://github.com/Cauan33XL/HYDROPUSH-APP) |
-
-</div>
 
 ---
 
@@ -161,26 +129,18 @@ Meus projetos estão organizados sob a marca **33XL SYSTEMS**, meu ecossistema p
 #### 🌌 [Self Pandora Game](https://github.com/33XL-GAMES-SYSTEM/SELF-PANDORA-GAME)
 **Jogo de plataforma 3D psicológico e atmosférico.** Navegue pela rede neural de Pandora em 33 fases baseadas em sentimentos. Integre sua Sombra e ouça trilhas sonoras procedurais sintetizadas em tempo real via Web Audio API.
 
-<div align="center">
-
 | Conceito | Tech | Fases | Foco | Distribuição | Repo |
 |:---:|:---|:---:|:---|:---:|:---:|
 | Autodescoberta, aceitação, psicologia abstrata | `TypeScript` • `Three.js` • `Vite` • `Web Audio API` | 33 níveis emocionais | Game 3D imersivo, trilha sonora procedural | 🎮 33XL Games System | [🔗 Ver](https://github.com/33XL-GAMES-SYSTEM/SELF-PANDORA-GAME) |
-
-</div>
 
 ---
 
 #### 🏚️ [Whisper Valley Rebuild](https://github.com/33XL-GAMES-SYSTEM/WHISPER-VALLEY-REBUILD)
 **Reconstrução expandida do clássico Whisper Valley.** Preservação, modernização e continuidade criativa do projeto original. Desenvolvido pela 33XL Games System com reconhecimento de todos os criadores originais.
 
-<div align="center">
-
 | Tipo | Tech | Foco | Distribuição | Repo |
 |:---:|:---|:---|:---:|:---:|
 | Preservation • Modern Rebuild | `TypeScript` • `JavaScript` | Preservação criativa, modernização de clássico | 🎮 33XL Games System | [🔗 Ver](https://github.com/33XL-GAMES-SYSTEM/WHISPER-VALLEY-REBUILD) |
-
-</div>
 
 ---
 

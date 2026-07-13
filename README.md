@@ -24,6 +24,8 @@ Desenvolvedor apaixonado por **sistemas de baixo nível**, **cibersegurança** e
 - 🎮 **Criando** experiências imersivas e metafísicas no meio digital
 - 🤝 **Aberto** a parcerias em projetos open-source, Game Engines e Cybersecurity Research
 
+> **Nota**: Também sou artista e criador autoral sob a marca **[@TRYPER-33](https://github.com/TRYPER-33)**, que abrange obras como *Self Pandora*, *Whisper Valley* e universos criativos distribuídos pela **33XL Games System**. Esta conta reflete minha identidade como **desenvolvedor e engenheiro de sistemas**.
+
 ---
 
 ## 🎨 Ecossistema 33XL SYSTEMS
@@ -256,6 +258,7 @@ Meus projetos estão organizados sob a marca **33XL SYSTEMS**, meu ecossistema p
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauan-gabriel-matos-silva/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cauan33XL)
+[![GitHub TRYPER-33](https://img.shields.io/badge/TRYPER--33-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TRYPER-33)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauan33XL@proton.me)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CAUAN33XL)
 

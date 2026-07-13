@@ -8,7 +8,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DD2727&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Sistemas+Web;Especialista+em+Virtualização+e+Rust;Apaixonado+por+Segurança+e+IA;Construindo+o+futuro+dos+OS+no+navegador)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DD2727&center=true&vCenter=true&width=700&lines=Desenvolvedor+de+Sistemas+Web;Especialista+em+Cibersegurança;Rust+%2B+WebAssembly+%2B+React;Explorando+os+Limites+da+Web)](https://github.com/Cauan33XL)
 
 </div>
 
@@ -16,53 +16,168 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Desenvolvedor apaixonado por **sistemas de baixo nível**, **cibersegurança** e **experiências web de alta performance**. Atualmente, meu foco principal é a convergência entre **Rust, WebAssembly e Virtualização**, criando pontas entre o software nativo e o navegador. Minha jornada é guiada pela curiosidade técnica — de desmontar malwares em CTFs a construir kernels experimentais para a web.
+Desenvolvedor apaixonado por **sistemas de baixo nível**, **cibersegurança** e **experiências web de alta performance**. Atualmente, meu foco principal é a convergência entre **Rust, WebAssembly** e **arquitetura de sistemas**, explorando como trazer computação verdadeira para o navegador.
 
-- 🚀 Atualmente liderando o desenvolvimento do **TRYMON-OS** (Binary-as-a-Service)
-- 🛡️ Especialista em **Eliciação e Perícia Computacional** aplicada a CTFs
-- ⚙️ Explorando **Rust, WebAssembly (WASM)** e **Arquitetura de Sistemas Operacionais**
-- 🤝 Aberto a parcerias em **projetos open-source**, **Game Engines** e **Cybersecurity Research**
+- 🚀 **Liderando** desenvolvimento de ecosistemas experimentais (TRYMON-OS, R.A.M 3D, 33XL Games)
+- 🛡️ **Especialista** em Eliciação e Perícia Computacional aplicada a CTFs e Segurança
+- ⚙️ **Explorando** Rust, WASM, Three.js e Arquitetura de Sistemas Operacionais
+- 🎮 **Criando** experiências imersivas e metafísicas no meio digital
+- 🤝 **Aberto** a parcerias em projetos open-source, Game Engines e Cybersecurity Research
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-### 💻 [TRYMON-OS](https://github.com/Cauan33XL/TRYMON-OS)
-> **O futuro da computação no navegador.** Uma plataforma de alto desempenho que simula um ambiente de sistema operacional completo, permitindo rodar binários Linux nativos (`.AppImage`, `.deb`) via WebAssembly e virtualização x86.
+### 🔧 **Sistemas & Infraestrutura**
 
-<div align="center">
+#### 💻 [TRYMON-OS](https://github.com/Cauan33XL/TRYMON-OS)
+**O futuro da computação no navegador.** Plataforma experimental de alto desempenho que simula um ambiente de SO completo, permitindo rodar binários Linux nativos via WebAssembly.
 
-| Status | Tech Stack | Repositório |
-|:---:|:---:|:---:|
-| `Alpha` | **Rust + WASM + React** | [🔗 Ver Código](https://github.com/Cauan33XL/TRYMON-OS) |
-
-</div>
-
----
-
-### 🛡️ [SecureFlag CTF](https://github.com/Cauan33XL/SECURE-FLAG-PROJETO-CTF)
-> **Ambiente acadêmico de treinamento forense.** Plataforma unificada de Capture The Flag focada em perícia digital e análise de evidências. Utilizada para simular cenários reais de invasão e coleta de dados em sistemas bancários e corporativos.
-
-<div align="center">
-
-| Módulos | Demo | Repositório |
-|:---:|:---:|:---:|
-| `Yaldabaoth Home / Bank` | [🔗 Visitar Live](https://yaldabaoth-bank-home-ctf.vercel.app/) | [🔗 Ver Código](https://github.com/Cauan33XL/SECURE-FLAG-PROJETO-CTF) |
-
-</div>
+| Aspecto | Detalhes |
+|:---:|:---|
+| **Status** | 🔄 Alpha / Em Desenvolvimento |
+| **Tech** | `Rust` • `WASM` • `React` • `TypeScript` |
+| **Foco** | Sistema operacional no browser, executável remoto seguro |
+| **Repo** | [🔗 Ver Código](https://github.com/Cauan33XL/TRYMON-OS) |
 
 ---
 
-### 💧 [HydroPush App](https://github.com/Cauan33XL/HYDROPUSH-APP)
-> **Hidratação inteligente e privada.** Um aplicativo monorepo focado em privacidade e funcionamento 100% offline. Desenvolvido para ser leve e multiplataforma (Web & Mobile), ajudando usuários a manterem seus hábitos saudáveis sem comprometer dados pessoais.
+#### 💾 [Banco SIC MUNDUS](https://github.com/Cauan33XL/BANCO-SIC-MUNDUS)
+**Terminal contábil retrô e misterioso.** Lógica de transações em C roda no navegador via WebAssembly com ultra-velocidade, integrada a interface hacker clássica CRT.
 
-<div align="center">
+| Aspecto | Detalhes |
+|:---:|:---|
+| **Temática** | ∴ Sic Mundus Creatus Est ∴ |
+| **Tech** | `TypeScript` • `C` • `WASM` • `React 19` • `CSS` |
+| **Foco** | Terminal financeiro WASM, interface retro-punk |
+| **Repo** | [🔗 Ver Código](https://github.com/Cauan33XL/BANCO-SIC-MUNDUS) |
 
-| Plataformas | Tech Stack | Repositório |
-|:---:|:---:|:---:|
-| `Web / Android / iOS` | **React + Capacitor + Firebase** | [🔗 Ver Código](https://github.com/Cauan33XL/HYDROPUSH-APP) |
+---
 
-</div>
+### 🛡️ **Segurança & Cibersegurança**
+
+#### 🎯 [SecureFlag CTF](https://github.com/Cauan33XL/SECURE-FLAG-PROJETO-CTF)
+**Ambiente acadêmico de treinamento forense.** Plataforma unificada de CTF focada em perícia digital, análise de evidências e simulação de cenários de invasão reais. Projeto UNICEPLAC.
+
+| Aspecto | Detalhes |
+|:---:|:---|
+| **Módulos** | Yaldabaoth Home • Yaldabaoth Bank Corporate |
+| **Tech** | `TypeScript` • `React` • `CSS` |
+| **Demo** | [🔗 Visitar Live](https://yaldabaoth-bank-home-ctf.vercel.app/) |
+| **Foco** | CTF forense, educação em segurança |
+| **Repo** | [🔗 Ver Código](https://github.com/Cauan33XL/SECURE-FLAG-PROJETO-CTF) |
+
+---
+
+### 📱 **Aplicações Web & Mobile**
+
+#### 💧 [HydroPush App](https://github.com/Cauan33XL/HYDROPUSH-APP)
+**Hidratação inteligente e privada.** Monorepo GPL3 100% offline com suporte multiplataforma (Web, Android, iOS). Lembretes personalizados, temas claro/escuro, persistência local completa.
+
+| Aspecto | Detalhes |
+|:---:|:---|
+| **Plataformas** | 🌐 Web • 📱 Android • 🍎 iOS |
+| **Tech** | `TypeScript` • `React` • `Capacitor` • `Firebase` • `CSS` |
+| **Licença** | GPL3 |
+| **Foco** | App offline-first, saúde, privacidade |
+| **Repo** | [🔗 Ver Código](https://github.com/Cauan33XL/HYDROPUSH-APP) |
+
+---
+
+### 🎮 **Games & Experiências Imersivas**
+
+#### 🌌 [Self Pandora Game](https://github.com/33XL-GAMES-SYSTEM/SELF-PANDORA-GAME)
+**Jogo de plataforma 3D psicológico e atmosférico.** Navegue pela rede neural de Pandora em 33 fases baseadas em sentimentos. Integre sua Sombra e ouça trilhas sonoras procedurais sintetizadas em tempo real via Web Audio API.
+
+| Aspecto | Detalhes |
+|:---:|:---|
+| **Conceito** | Autodescoberta, aceitação, psicologia abstrata |
+| **Tech** | `TypeScript` • `Three.js` • `Vite` • `Web Audio API` |
+| **Fases** | 33 níveis emocionais únicos |
+| **Foco** | Game 3D imersivo, trilha sonora procedural |
+| **Repo** | [🔗 Ver Código](https://github.com/33XL-GAMES-SYSTEM/SELF-PANDORA-GAME) |
+
+---
+
+#### 🏚️ [Whisper Valley Rebuild](https://github.com/33XL-GAMES-SYSTEM/WHISPER-VALLEY-REBUILD)
+**Reconstrução expandida do clássico Whisper Valley.** Preservação, modernização e continuidade criativa do projeto original. Desenvolvido pela 33XL Games System com reconhecimento de todos os criadores originais.
+
+| Aspecto | Detalhes |
+|:---:|:---|
+| **Tipo** | Preservation • Modern Rebuild |
+| **Tech** | `TypeScript` • `JavaScript` |
+| **Foco** | Preservação criativa, modernização de clássico |
+| **Repo** | [🔗 Ver Código](https://github.com/33XL-GAMES-SYSTEM/WHISPER-VALLEY-REBUILD) |
+
+---
+
+### 🎨 **Portfólio & Hubs**
+
+#### 🔗 [Repo Access Manager (R.A.M)](https://github.com/33XL-SYSTEM/REPO-ACCESS-MANAGER)
+**Núcleo central de acesso e indexação.** Hub de portfólio com estética retro-punk que centraliza todos os repositórios e websites. Desenvolvido para uma mente distribuída.
+
+| Aspecto | Detalhes |
+|:---:|:---|
+| **Função** | Indexação, portfólio central, acesso unificado |
+| **Tech** | `TypeScript` • `React` • `CSS` |
+| **Estética** | Retro-Punk, Dark Mode |
+| **Repo** | [🔗 Ver Código](https://github.com/33XL-SYSTEM/REPO-ACCESS-MANAGER) |
+
+---
+
+#### 🌐 [R.A.M 3D Mode](https://github.com/33XL-SYSTEM/RAM-3D-MODE)
+**Hub interativo e imersivo em 3D.** Experiência espacial gamificada que transforma o portfólio tradicional em um ambiente 3D imersivo. Centraliza projetos e repositórios.
+
+| Aspecto | Detalhes |
+|:---:|:---|
+| **Tipo** | 3D Immersive Portfolio |
+| **Tech** | `TypeScript` • `React` • `Three.js` |
+| **Experiência** | Gamificada, exploratória, imersiva |
+| **Repo** | [🔗 Ver Código](https://github.com/33XL-SYSTEM/RAM-3D-MODE) |
+
+---
+
+#### 🎮 [33XL Games System Hub](https://github.com/33XL-GAMES-SYSTEM/33XL-GAMES-SYSTEM)
+**Ecossistema front-end minimalista.** Hub central que abriga os jogos autorais e metafísicos do universo 33XL. Plataforma de distribuição criativa.
+
+| Aspecto | Detalhes |
+|:---:|:---|
+| **Função** | Hub central de games, distribuição criativa |
+| **Tech** | `TypeScript` • `React` • `CSS` • `JavaScript` |
+| **Filosofia** | Minimalista, autorais, metafísicos |
+| **Repo** | [🔗 Ver Código](https://github.com/33XL-GAMES-SYSTEM/33XL-GAMES-SYSTEM) |
+
+---
+
+### 💡 **Ferramentas & IDEs**
+
+#### 📸 [Photo Test Engine](https://github.com/Cauan33XL/PHOTO-TEST-ENGINE-PUBLIC)
+**IDE ultrarrápida para componentes React.** Ambiente de desenvolvimento que roda direto no navegador. Teste, visualize e desenvolva componentes TSX/JSX instantaneamente com isolamento total.
+
+| Aspecto | Detalhes |
+|:---:|:---|
+| **Função** | IDE para React, componentes instantâneos |
+| **Tech** | `TypeScript` • `React` • `TSX/JSX` |
+| **Inspiração** | Gemini Canvas |
+| **Foco** | Desenvolvimento rápido, feedback imediato |
+| **Repo** | [🔗 Ver Código](https://github.com/Cauan33XL/PHOTO-TEST-ENGINE-PUBLIC) |
+
+---
+
+## 📊 Visão Geral de Projetos
+
+| Projeto | Status | Tech Principal | Tipo |
+|:---|:---:|:---:|:---|
+| **TRYMON-OS** | 🔄 Alpha | Rust + WASM | Sistema |
+| **Banco SIC MUNDUS** | ✅ Estável | TypeScript + C | Terminal/Blockchain |
+| **SecureFlag CTF** | ✅ Estável | TypeScript + React | Segurança/Educação |
+| **HydroPush** | ✅ Estável | TypeScript + React | Aplicação Mobile |
+| **Self Pandora Game** | ✅ Estável | TypeScript + Three.js | Game 3D |
+| **Whisper Valley** | ✅ Estável | TypeScript | Game 2D |
+| **R.A.M** | ✅ Estável | TypeScript + React | Portfólio |
+| **R.A.M 3D** | ✅ Estável | TypeScript + Three.js | Portfólio 3D |
+| **33XL Games Hub** | ✅ Estável | TypeScript + React | Hub |
+| **Photo Test Engine** | ✅ Estável | TypeScript | IDE |
 
 ---
 
@@ -70,23 +185,46 @@ Desenvolvedor apaixonado por **sistemas de baixo nível**, **cibersegurança** e
 
 <div align="center">
 
-### Core & Systems
+### 🦀 Core & Systems
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![WASM](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Web & Mobile
+### ⚛️ Frontend & Web
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Design & Tools
+### 📱 Mobile & Cross-Platform
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🎨 Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🛠️ Development
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📈 Distribuição de Linguagens
+
+<div align="center">
+
+**Principais linguagens por volume de código:**
+
+- **TypeScript** — 73% (Ecosistema Web/React)
+- **Rust** — 42% (Sistemas e WASM)
+- **CSS** — 17% (Design e Interface)
+- **C** — 3% (Lógica de baixo nível)
+- **JavaScript** — 6% (Legacy e utilitários)
 
 </div>
 
@@ -105,11 +243,22 @@ Desenvolvedor apaixonado por **sistemas de baixo nível**, **cibersegurança** e
 
 ---
 
+## 📝 Filosofia de Desenvolvimento
+
+> **"O código dá forma à lógica. A arquitetura dá estrutura à alma de um software."**
+
+Meus projetos refletem a convergência entre:
+- ⚡ **Perfor­mance brutal** (Rust, WASM, otimização extrema)
+- 🎨 **Estética retrô-punk** (interfaces CRT, design imersivo)
+- 🧠 **Exploração conceitual** (gamificação, metafísica digital, sistemas emergentes)
+- 🔒 **Segurança e privacidade** (offline-first, isolamento, criptografia)
+
+---
+
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1800&color=DD2727&center=true&vCenter=true&width=700&lines=O+c%C3%B3digo+d%C3%A1+forma+%C3%A0+l%C3%B3gica%2C;mas+%C3%A9+a+criatividade+que+o+transforma+em+realidade.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=DD2727&center=true&vCenter=true&width=800&lines=O+c%C3%B3digo+d%C3%A1+forma+%C3%A0+l%C3%B3gica;A+web+tem+limites+que+eu+exploro;Rust+%2B+WASM+%3D+Futuro;Cada+linha+%C3%A9+uma+hist%C3%B3ria)](https://github.com/Cauan33XL)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=DD2727&height=120&section=footer)
 
 </div>
-

@@ -1,6 +1,12 @@
 # 👾 Olá, eu sou Cauan Gabriel Matos Silva!
 
 <div align="center">
+
+**🇧🇷 Português** | [🇺🇸 English](./README-EN.md) | [🇪🇸 Español](./README-ES.md)
+
+</div>
+
+<div align="center">
   
 ![Retro Developer Coding](Assets/computador.gif)
 
@@ -14,7 +20,7 @@
 
 ---
 
-# 🧑‍💻 Sobre Mim
+## 🧑‍💻 Sobre Mim
 
 Desenvolvedor apaixonado por **sistemas de baixo nível**, **cibersegurança** e **experiências web de alta performance**. Atualmente, meu foco principal é a convergência entre **Rust, WebAssembly** e **arquitetura de sistemas**, explorando como trazer computação verdadeira para o navegador.
 
@@ -46,7 +52,7 @@ Meus projetos estão organizados sob a marca **33XL SYSTEMS**, meu ecossistema p
 
 ### 🎨 **Hubs de Acesso & Portfólio** *(33XL SYSTEMS)*
 
-### 🎮 [33XL Games System Hub](https://github.com/33XL-GAMES-SYSTEM/33XL-GAMES-SYSTEM)
+#### 🎮 [33XL Games System Hub](https://github.com/33XL-GAMES-SYSTEM/33XL-GAMES-SYSTEM)
 **Ecossistema front-end minimalista.** Distribuidora central que abriga os games autorais e metafísicos do universo 33XL. Plataforma de distribuição criativa.
 
 <div align="center">
@@ -64,7 +70,7 @@ Meus projetos estão organizados sob a marca **33XL SYSTEMS**, meu ecossistema p
 
 ---
 
-### 🔗 [Repo Access Manager (R.A.M)](https://github.com/33XL-SYSTEM/REPO-ACCESS-MANAGER)
+#### 🔗 [Repo Access Manager (R.A.M)](https://github.com/33XL-SYSTEM/REPO-ACCESS-MANAGER)
 **Núcleo central de acesso e indexação.** Hub de portfólio com estética retro-punk que centraliza todos os repositórios e websites. Desenvolvido para uma mente distribuída.
 
 <div align="center">
@@ -82,7 +88,7 @@ Meus projetos estão organizados sob a marca **33XL SYSTEMS**, meu ecossistema p
 
 ---
 
-### 🌐 [R.A.M 3D Mode](https://github.com/33XL-SYSTEM/RAM-3D-MODE)
+#### 🌐 [R.A.M 3D Mode](https://github.com/33XL-SYSTEM/RAM-3D-MODE)
 **Hub interativo e imersivo em 3D.** Experiência espacial gamificada que transforma o portfólio tradicional em um ambiente 3D imersivo. Centraliza projetos e repositórios.
 
 <div align="center">
@@ -102,7 +108,7 @@ Meus projetos estão organizados sob a marca **33XL SYSTEMS**, meu ecossistema p
 
 ### 🔧 **Sistemas & Infraestrutura Técnica**
 
-### 💻 [TRYMON-OS](https://github.com/Cauan33XL/TRYMON-OS)
+#### 💻 [TRYMON-OS](https://github.com/Cauan33XL/TRYMON-OS)
 **O futuro da computação no navegador.** Plataforma experimental de alto desempenho que simula um ambiente de SO completo, permitindo rodar binários Linux nativos via WebAssembly.
 
 <div align="center">
@@ -120,7 +126,7 @@ Meus projetos estão organizados sob a marca **33XL SYSTEMS**, meu ecossistema p
 
 ---
 
-### 💾 [Banco SIC MUNDUS](https://github.com/Cauan33XL/BANCO-SIC-MUNDUS)
+#### 💾 [Banco SIC MUNDUS](https://github.com/Cauan33XL/BANCO-SIC-MUNDUS)
 **Terminal contábil retrô e misterioso.** Lógica de transações em C roda no navegador via WebAssembly com ultra-velocidade, integrada a interface hacker clássica CRT.
 
 <div align="center">
@@ -141,7 +147,7 @@ Meus projetos estão organizados sob a marca **33XL SYSTEMS**, meu ecossistema p
 
 ### 💡 **Ferramentas & IDEs**
 
-### 📸 [Photo Test Engine](https://github.com/Cauan33XL/PHOTO-TEST-ENGINE-PUBLIC)
+#### 📸 [Photo Test Engine](https://github.com/Cauan33XL/PHOTO-TEST-ENGINE-PUBLIC)
 **IDE ultrarrápida para componentes React.** Ambiente de desenvolvimento que roda direto no navegador. Teste, visualize e desenvolva componentes TSX/JSX instantaneamente com isolamento total.
 
 <div align="center">
@@ -163,7 +169,7 @@ Meus projetos estão organizados sob a marca **33XL SYSTEMS**, meu ecossistema p
 
 ### 🛡️ **Contexto Acadêmico & Continuados**
 
-### 🎯 [SecureFlag CTF](https://github.com/Cauan33XL/SECURE-FLAG-PROJETO-CTF)
+#### 🎯 [SecureFlag CTF](https://github.com/Cauan33XL/SECURE-FLAG-PROJETO-CTF)
 **Ambiente acadêmico de treinamento forense.** Plataforma unificada de CTF focada em perícia digital, análise de evidências e simulação de cenários de invasão reais. Projeto UNICEPLAC.
 
 <div align="center">
@@ -183,7 +189,7 @@ Meus projetos estão organizados sob a marca **33XL SYSTEMS**, meu ecossistema p
 
 ---
 
-### 💧 [HydroPush App](https://github.com/Cauan33XL/HYDROPUSH-APP)
+#### 💧 [HydroPush App](https://github.com/Cauan33XL/HYDROPUSH-APP)
 **Hidratação inteligente e privada.** Monorepo GPL3 100% offline com suporte multiplataforma (Web, Android, iOS). Lembretes personalizados, temas claro/escuro, persistência local completa.
 
 <div align="center">
@@ -205,7 +211,7 @@ Meus projetos estão organizados sob a marca **33XL SYSTEMS**, meu ecossistema p
 
 ### 🎮 **Games & Experiências Experimentais** *(33XL Games System)*
 
-### 🌌 [Self Pandora Game](https://github.com/33XL-GAMES-SYSTEM/SELF-PANDORA-GAME)
+#### 🌌 [Self Pandora Game](https://github.com/33XL-GAMES-SYSTEM/SELF-PANDORA-GAME)
 **Jogo de plataforma 3D psicológico e atmosférico.** Navegue pela rede neural de Pandora em 33 fases baseadas em sentimentos. Integre sua Sombra e ouça trilhas sonoras procedurais sintetizadas em tempo real via Web Audio API.
 
 <div align="center">
@@ -225,7 +231,7 @@ Meus projetos estão organizados sob a marca **33XL SYSTEMS**, meu ecossistema p
 
 ---
 
-### 🏚️ [Whisper Valley Rebuild](https://github.com/33XL-GAMES-SYSTEM/WHISPER-VALLEY-REBUILD)
+#### 🏚️ [Whisper Valley Rebuild](https://github.com/33XL-GAMES-SYSTEM/WHISPER-VALLEY-REBUILD)
 **Reconstrução expandida do clássico Whisper Valley.** Preservação, modernização e continuidade criativa do projeto original. Desenvolvido pela 33XL Games System com reconhecimento de todos os criadores originais.
 
 <div align="center">

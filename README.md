@@ -26,6 +26,20 @@ Desenvolvedor apaixonado por **sistemas de baixo nível**, **cibersegurança** e
 
 ---
 
+## 🎨 Ecossistema 33XL SYSTEMS
+
+Meus projetos estão organizados sob a marca **33XL SYSTEMS**, meu ecossistema pessoal de desenvolvimento. A **33XL Games System** atua como a **distribuidora e selo autoral** para experiências criativas e games dentro deste universo.
+
+<div align="center">
+
+**33XL SYSTEMS** — Marca pessoal multidisciplinar  
+↓  
+**33XL Games System** — Distribuidora de games e experiências criativas autorais
+
+</div>
+
+---
+
 ## 🚀 Projetos em Destaque
 
 ### 🔧 **Sistemas & Infraestrutura**
@@ -50,6 +64,7 @@ Desenvolvedor apaixonado por **sistemas de baixo nível**, **cibersegurança** e
 | **Temática** | ∴ Sic Mundus Creatus Est ∴ |
 | **Tech** | `TypeScript` • `C` • `WASM` • `React 19` • `CSS` |
 | **Foco** | Terminal financeiro WASM, interface retro-punk |
+| **Organização** | 33XL SYSTEMS |
 | **Repo** | [🔗 Ver Código](https://github.com/Cauan33XL/BANCO-SIC-MUNDUS) |
 
 ---
@@ -84,7 +99,7 @@ Desenvolvedor apaixonado por **sistemas de baixo nível**, **cibersegurança** e
 
 ---
 
-### 🎮 **Games & Experiências Imersivas**
+### 🎮 **Games & Experiências Imersivas** *(33XL Games System)*
 
 #### 🌌 [Self Pandora Game](https://github.com/33XL-GAMES-SYSTEM/SELF-PANDORA-GAME)
 **Jogo de plataforma 3D psicológico e atmosférico.** Navegue pela rede neural de Pandora em 33 fases baseadas em sentimentos. Integre sua Sombra e ouça trilhas sonoras procedurais sintetizadas em tempo real via Web Audio API.
@@ -95,6 +110,7 @@ Desenvolvedor apaixonado por **sistemas de baixo nível**, **cibersegurança** e
 | **Tech** | `TypeScript` • `Three.js` • `Vite` • `Web Audio API` |
 | **Fases** | 33 níveis emocionais únicos |
 | **Foco** | Game 3D imersivo, trilha sonora procedural |
+| **Distribuição** | 🎮 33XL Games System |
 | **Repo** | [🔗 Ver Código](https://github.com/33XL-GAMES-SYSTEM/SELF-PANDORA-GAME) |
 
 ---
@@ -107,11 +123,12 @@ Desenvolvedor apaixonado por **sistemas de baixo nível**, **cibersegurança** e
 | **Tipo** | Preservation • Modern Rebuild |
 | **Tech** | `TypeScript` • `JavaScript` |
 | **Foco** | Preservação criativa, modernização de clássico |
+| **Distribuição** | 🎮 33XL Games System |
 | **Repo** | [🔗 Ver Código](https://github.com/33XL-GAMES-SYSTEM/WHISPER-VALLEY-REBUILD) |
 
 ---
 
-### 🎨 **Portfólio & Hubs**
+### 🎨 **Portfólio & Hubs** *(33XL SYSTEMS)*
 
 #### 🔗 [Repo Access Manager (R.A.M)](https://github.com/33XL-SYSTEM/REPO-ACCESS-MANAGER)
 **Núcleo central de acesso e indexação.** Hub de portfólio com estética retro-punk que centraliza todos os repositórios e websites. Desenvolvido para uma mente distribuída.
@@ -121,6 +138,7 @@ Desenvolvedor apaixonado por **sistemas de baixo nível**, **cibersegurança** e
 | **Função** | Indexação, portfólio central, acesso unificado |
 | **Tech** | `TypeScript` • `React` • `CSS` |
 | **Estética** | Retro-Punk, Dark Mode |
+| **Organização** | 33XL SYSTEMS |
 | **Repo** | [🔗 Ver Código](https://github.com/33XL-SYSTEM/REPO-ACCESS-MANAGER) |
 
 ---
@@ -133,18 +151,20 @@ Desenvolvedor apaixonado por **sistemas de baixo nível**, **cibersegurança** e
 | **Tipo** | 3D Immersive Portfolio |
 | **Tech** | `TypeScript` • `React` • `Three.js` |
 | **Experiência** | Gamificada, exploratória, imersiva |
+| **Organização** | 33XL SYSTEMS |
 | **Repo** | [🔗 Ver Código](https://github.com/33XL-SYSTEM/RAM-3D-MODE) |
 
 ---
 
 #### 🎮 [33XL Games System Hub](https://github.com/33XL-GAMES-SYSTEM/33XL-GAMES-SYSTEM)
-**Ecossistema front-end minimalista.** Hub central que abriga os jogos autorais e metafísicos do universo 33XL. Plataforma de distribuição criativa.
+**Ecossistema front-end minimalista.** Distribuidora central que abriga os games autorais e metafísicos do universo 33XL. Plataforma de distribuição criativa.
 
 | Aspecto | Detalhes |
 |:---:|:---|
-| **Função** | Hub central de games, distribuição criativa |
+| **Função** | Distribuidora de games, hub central |
 | **Tech** | `TypeScript` • `React` • `CSS` • `JavaScript` |
 | **Filosofia** | Minimalista, autorais, metafísicos |
+| **Organização** | 🎮 33XL Games System (Selo Autoral) |
 | **Repo** | [🔗 Ver Código](https://github.com/33XL-GAMES-SYSTEM/33XL-GAMES-SYSTEM) |
 
 ---
@@ -166,18 +186,18 @@ Desenvolvedor apaixonado por **sistemas de baixo nível**, **cibersegurança** e
 
 ## 📊 Visão Geral de Projetos
 
-| Projeto | Status | Tech Principal | Tipo |
-|:---|:---:|:---:|:---|
-| **TRYMON-OS** | 🔄 Alpha | Rust + WASM | Sistema |
-| **Banco SIC MUNDUS** | ✅ Estável | TypeScript + C | Terminal/Blockchain |
-| **SecureFlag CTF** | ✅ Estável | TypeScript + React | Segurança/Educação |
-| **HydroPush** | ✅ Estável | TypeScript + React | Aplicação Mobile |
-| **Self Pandora Game** | ✅ Estável | TypeScript + Three.js | Game 3D |
-| **Whisper Valley** | ✅ Estável | TypeScript | Game 2D |
-| **R.A.M** | ✅ Estável | TypeScript + React | Portfólio |
-| **R.A.M 3D** | ✅ Estável | TypeScript + Three.js | Portfólio 3D |
-| **33XL Games Hub** | ✅ Estável | TypeScript + React | Hub |
-| **Photo Test Engine** | ✅ Estável | TypeScript | IDE |
+| Projeto | Status | Tech Principal | Tipo | Organização |
+|:---|:---:|:---:|:---|:---|
+| **TRYMON-OS** | 🔄 Alpha | Rust + WASM | Sistema | Pessoal |
+| **Banco SIC MUNDUS** | ✅ Estável | TypeScript + C | Terminal/Blockchain | 33XL SYSTEMS |
+| **SecureFlag CTF** | ✅ Estável | TypeScript + React | Segurança/Educação | Pessoal |
+| **HydroPush** | ✅ Estável | TypeScript + React | Aplicação Mobile | Pessoal |
+| **Self Pandora Game** | ✅ Estável | TypeScript + Three.js | Game 3D | 33XL Games System |
+| **Whisper Valley** | ✅ Estável | TypeScript | Game 2D | 33XL Games System |
+| **R.A.M** | ✅ Estável | TypeScript + React | Portfólio | 33XL SYSTEMS |
+| **R.A.M 3D** | ✅ Estável | TypeScript + Three.js | Portfólio 3D | 33XL SYSTEMS |
+| **33XL Games Hub** | ✅ Estável | TypeScript + React | Distribuidora | 33XL Games System |
+| **Photo Test Engine** | ✅ Estável | TypeScript | IDE | Pessoal |
 
 ---
 

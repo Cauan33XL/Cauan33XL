@@ -2,7 +2,9 @@
 
 <div align="center">
 
-**🇧🇷 Português** | [🇺🇸 English](./README-EN.md) | [🇪🇸 Español](./README-ES.md)
+[![Português](https://img.shields.io/badge/🇧🇷_Português-DD2727?style=for-the-badge&logoColor=white)](./README.md)
+[![English](https://img.shields.io/badge/🇺🇸_English-0077B5?style=for-the-badge&logoColor=white)](./README-EN.md)
+[![Español](https://img.shields.io/badge/🇪🇸_Español-FFC400?style=for-the-badge&logoColor=white)](./README-ES.md)
 
 </div>
 

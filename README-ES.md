@@ -20,7 +20,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DD2727&center=true&vCenter=true&width=700&lines=Desarrollador+de+Sistemas+Web;Especialista+en+Ciberseguridad;Rust+%2B+WebAssembly+%2B+React;Explorando+los+Limites+de+la+Web)](https://github.com/Cauan33XL)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DD2727&center=true&vCenter=true&width=700&lines=Desarrollador+de+Sistemas+Web;Entusiasta+en+Ciberseguridad;Rust+%2B+WebAssembly+%2B+React;Explorando+los+Limites+de+la+Web)](https://github.com/Cauan33XL)
 
 </div>
 

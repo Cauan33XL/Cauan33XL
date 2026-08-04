@@ -108,6 +108,25 @@ Meus projetos estão organizados sob a marca **33XL SYSTEMS**, meu ecossistema p
 
 ### 🔧 **Sistemas & Infraestrutura Técnica**
 
+#### 💼 [33XL Business System](https://github.com/33XL-SYSTEM/33XL-BUSINESS-SYSTEM)
+**Plataforma modular de modelagem empresarial.** Canvas infinito onde você instancia calculadoras, tabelas e processos (Módulos), estruturando a inteligência espacial da sua operação empresarial de forma tática. Sistema completo para organização, análise e otimização de negócios.
+
+<div align="center">
+
+| Aspecto | Detalhes |
+|:---:|:---|
+| **Objetivo** | Plataforma modular de modelagem e organização de negócios |
+| **Tech Stack** | `TypeScript` • `React` • `CSS` |
+| **Funcionalidade** | Canvas infinito, módulos, calculadoras, tabelas, processos |
+| **Abordagem** | Chão de fábrica digital, inteligência espacial tática |
+| **Organização** | 33XL SYSTEMS |
+| **Status** | 🔄 Beta / Em Desenvolvimento |
+| **Repositório** | [🔗 Ver Código](https://github.com/33XL-SYSTEM/33XL-BUSINESS-SYSTEM) |
+
+</div>
+
+---
+
 #### 💻 [TRYMON-OS](https://github.com/Cauan33XL/TRYMON-OS)
 **O futuro da computação no navegador.** Plataforma experimental de alto desempenho que simula um ambiente de SO completo, permitindo rodar binários Linux nativos via WebAssembly.
 
@@ -260,6 +279,7 @@ Meus projetos estão organizados sob a marca **33XL SYSTEMS**, meu ecossistema p
 | **33XL Games Hub** | ✅ Estável | TypeScript + React | Distribuidora | 33XL Games System |
 | **R.A.M** | ✅ Estável | TypeScript + React | Portfólio | 33XL SYSTEMS |
 | **R.A.M 3D** | ✅ Estável | TypeScript + Three.js | Portfólio 3D | 33XL SYSTEMS |
+| **33XL Business System** | 🔄 Beta | TypeScript + React | Plataforma Empresarial | 33XL SYSTEMS |
 | **TRYMON-OS** | 🔄 Alpha | Rust + WASM | Sistema | Pessoal |
 | **Banco SIC MUNDUS** | ✅ Estável | TypeScript + C | Terminal/Blockchain | 33XL SYSTEMS |
 | **Photo Test Engine** | ✅ Estável | TypeScript | IDE | Pessoal |

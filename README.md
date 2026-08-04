@@ -16,7 +16,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DD2727&center=true&vCenter=true&width=700&lines=Desenvolvedor+de+Sistemas+Web;Entusiasta+em+Cibersegurança;Rust+%2B+WebAssembly+%2B+React;Explorando+os+Limites+da+Web)](https://github.com/Cauan33XL)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DD2727&center=true&vCenter=true&width=700&lines=Desenvolvedor+de+Sistemas+Web;Entusiasta+em+Typescript;Rust+%2B+WebAssembly+%2B+React;Explorando+os+Limites+da+Web)](https://github.com/Cauan33XL)
 
 </div>
 
@@ -24,7 +24,7 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Desenvolvedor apaixonado por **sistemas de baixo nível**, **cibersegurança** e **experiências web de alta performance**. Atualmente, meu foco principal é a convergência entre **Rust, WebAssembly** e **arquitetura de sistemas**, explorando como trazer computação verdadeira para o navegador.
+Desenvolvedor apaixonado por **sistemas de baixo nível**, **typescript** e **experiências web de alta performance**. Atualmente, meu foco principal é a convergência entre **Rust, WebAssembly** e **arquitetura de sistemas**, explorando como trazer computação verdadeira para o navegador.
 
 - 🚀 **Liderando** desenvolvimento de ecosistemas experimentais (TRYMON-OS, R.A.M 3D, 33XL Games)
 - 🛡️ **Especialista** em Eliciação e Perícia Computacional aplicada a CTFs e Segurança
